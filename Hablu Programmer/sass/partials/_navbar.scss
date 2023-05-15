@@ -1,0 +1,20 @@
+@import "./variables";
+/* Navbar part start */
+.navbar {
+    .navbar-nav {
+        .nav-item {
+            .nav-link {
+                font-family: $Inter-font !important;
+                font-style: normal !important;
+                font-weight: 600 !important;
+                font-size: 16px !important;
+                line-height: 24px !important;
+                letter-spacing: -0.1px !important;
+                color: $heading-color !important;
+
+            }
+        }
+    }
+}
+
+/* Navbar part end*/

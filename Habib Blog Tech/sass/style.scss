@@ -1,0 +1,17 @@
+@import "./reset";
+@import "./_variables";
+
+/* Header part start */
+.container{
+    .header_container_wrapper{
+        width: 100%;
+        .header{
+            max-width: 1240px;
+            margin: auto;
+            .logo_area{
+
+            }
+        }
+    }
+}
+/* Header part edn */
